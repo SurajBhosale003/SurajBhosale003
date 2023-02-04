@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbhosale003&label=Profile%20views&color=0e75b6&style=flat" alt="surajbhosale003" /> </p>
 
-- 🌱 I’m currently learning **MERN stack and firebase,AWS**
+- 🌱 I’m currently learning **MERN and Bash commands**
 
 - 💬 Ask me about **Html, CSS, JS, Java, and .NET**
 
 - 📫 How to reach me **surajranajitbhosale003@gmail.com**
-
+- **Ph: 9172833311**
+- Suraj Ranajit Bhosale
+- Linkedin Profile: https://www.linkedin.com/in/suraj-bhosale003/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@surajbh26612909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@surajbh26612909" height="30" width="40" /></a>
