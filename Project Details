@@ -1,0 +1,55 @@
+ //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+1. Project name: StarVertex
+Domain: Industrial.
+Description :
+ Starvertex was created by me utilising fundamental HTML and CSS techniques, with unique designs for each component. I created separate attributes for the phone view and laptop view using the @media component. 
+ It was challenging because I didn't know how to use bootstrap at the time. I completed both the backend code and page design for the website. Additionally, the project was launched online by my project partner. 
+ To upload the website to the internet, we utilised hostinger.
+(https://starvertex.in/HomePage.html).
+Concepts Used: HTML, CSS, JS, CSS, Hostinger.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+2. Project name: College management Admin panel
+Description :
+ I created an admin interface for the CSIBER (Chhatrapati Shahu Institute of Business Education and Research) students so that they could administer the syllabus, distribute grades, and assign teachers to certain classes.
+Features:
+	• Flexible subject and syllabus management.
+	• Dynamic mark pattern.
+	• Teacher Authentication.
+	• Student Mark Management
+	• Student Result.
+	• By year data management and record.
+Concepts Used: Using Html, CSS, PHP, MySQLi, Xampp
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+3. Project name: Lodging management
+Description :
+ We have created a desktop base application in vb.net for the general shop. They run Windows XP on an outdated computer. Visual Studio 2006 was used to create the project. The backend was Microsoft Excel. We used C# as our primary language, and I was the project's co-leader. The programme was created by 2 developers, and I launched the project.
+  
+Concepts Used: VB.net, Excel, Microsoft Framework 4.5.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+4. Project name: Student Registration 
+Description :
+ It is a little module that I created to put the firebase idea into practise and save data in the cloud in real-time. I have gained knowledge of CRUD operations of firebase thanks to this project.
+ 
+GitHub: https://github.com/SurajBhosale003/student-registration-firebase
+Concepts Used: HTML, CSS, JS, Firebase, Git.
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+5. Project name: Chat room system 
+Description :
+ Using Client-Server technology I created a chat room where we may speak with other network users using certain fundamental features and actions.
+Features:
+	• Can support more than 2 users up to 80.
+	• Can Show Logged in and logged out an action.
+	• Can Show Online user status along with their name.
+ 
+Concepts Used: Java, client-server, JFrame, Java Libraries.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+6. Employee salary and attendance management (Using Java, 
+ Oracle) - First Project. 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+7. Software Design For CA's Project (Using CSS, Bootstrap) (Asp. net, SQL server)
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+8. Chat GPT Clone (Using Vue-JS and Open Ai API)
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+9. Stackoverflow Clone (Using React, Node-js, MangoDB, Express Js, Redux)
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+10. Movie Search (Using API and JS) 
