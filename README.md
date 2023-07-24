@@ -11,6 +11,9 @@
 - **Ph: 9172833311**
 - Suraj Ranajit Bhosale
 - Linkedin Profile: https://www.linkedin.com/in/suraj-bhosale003/
+<h3>Skill Set</h3>
+- React.js, JavaScript, Java, Redux, Express.js, Axios, Git, GitHub, Web-dev, Front-End Web Development, Firebase, MongoDB, RESTful API, API Integration, Project Management, Agile, MVC, Web API, PostgreSQL, HTML, CSS, Oracle SQL Server, Quick Learner, nodemon, MUI, ANTD, Communication, Team Leadership, Lighthouse.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@surajbh26612909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@surajbh26612909" height="30" width="40" /></a>
