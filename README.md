@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN and Bash commands**
 
-- 💬 Ask me about **Html, CSS, JS, Java, and .NET**
+- 💬 Ask me about **Html, CSS, JS, React JS, Node Js, Java, and .NET**
 
 - 📫 How to reach me **surajranajitbhosale003@gmail.com**
 - **Ph: 9172833311**
