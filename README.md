@@ -8,7 +8,6 @@
 - 💬 Ask me about **Html, CSS, JS, React JS, Node Js, Java, and .NET**
 
 - 📫 How to reach me **surajranajitbhosale003@gmail.com**
-- **Ph: 9172833311**
 - Suraj Ranajit Bhosale
 - Linkedin Profile: https://www.linkedin.com/in/suraj-bhosale003/
 <h3>Skill Set</h3>
